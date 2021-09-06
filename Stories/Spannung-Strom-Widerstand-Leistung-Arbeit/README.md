@@ -30,24 +30,31 @@ Es gibt verschiedene Möglichkeiten
 
 ---
 
-
-### Galvanisches Element
+### Beispiel Galvanisches Element (chemisch)
 
 * Versuch Zitronenbatterie
 
-### Thermoelement
+---
 
-### Elektromagnetischer Generator
+### Beispiel Thermoelement (thermisch)
+* Versuch Thermospannung
+
+--- 
+
+### Beispiel elektromagnetischer Generator (magnetisch)
 
 * Versuch Motor als Generator
+--- 
 
-### Photoelektrischer Effekt
+### Beispiel Photoelektrischer Effekt (Licht)
 
 * Versuch LED als Spannungsquelle
+---
 
 ## Praktische Spannungsquellen
 
 * Versuch Spannungen verschiedener Batterien
+--- 
 
 ## Grundstromkreis
 
@@ -57,16 +64,17 @@ Es gibt verschiedene Möglichkeiten
 
 ### Widerstand
 
-* Versuch Widerstandsberechnung
+--- 
 
 ## Messtechnik
 
 ### Spannungsmessung
 
 ### Strommessung
+* Versuch Widerstandsberechnung
 
 ### Widerstandsmessung
-
+--- 
 ## Elektrische Leistung
 
 ### Bedeutung
@@ -74,7 +82,7 @@ Es gibt verschiedene Möglichkeiten
 ### Messung
 
 ### Beispiele
-
+--- 
 ## Elektrische Arbeit
 
 ### Bedeutung
