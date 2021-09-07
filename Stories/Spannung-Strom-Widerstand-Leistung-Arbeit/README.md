@@ -133,7 +133,6 @@ Worauf sollte ich beim Kauf eines Multimeters achten?
 * Stromzangenfunktion
 * CAT II oder III
 
---- 
 ### Spannungsmessung / Strommessung
 
 * Spannungen werden parallel zur Potentialdifferenz gemessen
