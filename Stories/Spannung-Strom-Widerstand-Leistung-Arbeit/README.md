@@ -67,12 +67,12 @@ Es gibt verschiedene Möglichkeiten, freie Ladungsträger zu erzeugen
 ---
 
 ### Beispiel Galvanisches Element (chemische Erzeugung freier Ladungsträger)
-Das einfachste galvanische Element ist eine Zink-Kupfer-Zelle
+Das einfachste galvanische Element ist eine Zink-Kupfer-Zelle. Man taucht einen Zinknagel und einen Kupfernagel in ein Wasserglas. Beide Metalle "lösen" Ionen im Wasser. Die Elektronen bleiben in Form von freien Ladungsträgern in den Nägeln.
 
 Auf der Zinkseite entstehen mehr freie Elektronen pro Zeiteinheit als auf der Kupferseite, weil:
 
-* Zink ist unedel und gibt sehr viele positive Kationen ans Wasser ab.
-* Kupfer ist edler als Zink und gibt nur sehr wenige positive Kationen ans Wasser ab.
+* Zink ist unedel und gibt sehr viele Ionen ans Wasser ab.
+* Kupfer ist edler als Zink und gibt nur sehr wenige Ionen ans Wasser ab.
 
 [Zink-Kupfer-Zelle](https://www.u-helmich.de/che/Q1/inhaltsfeld-3-ec/2-GalvanischeZellen/bilder/bild05.jpg).
 
