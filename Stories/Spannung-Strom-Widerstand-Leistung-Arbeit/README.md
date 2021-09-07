@@ -82,58 +82,104 @@ Etwas effektiver arbeitet die "Zitronenbatterie". Hier hilft unter Anderem die S
 
 ---
 
-### Beispiel Thermoelement (thermisch)
+### Beispiel Thermoelement (thermische Erzeugung freier Ladungsträger)
+
+Bei der Thermospannung entsteht am Berührungspunkt zweier Metalle eine Spannung. Die Metalle müssen dabei direkt mit einander verbunden sein, verlöten geht nicht! Vorteil ist die hohe Temperaturbelastbarkeit.
+
+[Thermoelement, Thermospannung](https://infosys.beckhoff.com/content/1031/fm33xx-b110-xxxx/Images/gif/403004043__Web.gif)
+
+[Beispiel auf Amazon](https://www.amazon.de/GALOOK-Hintergrundbeleuchtung-Temperaturmessger%C3%A4t-Landwirtschaft-Meteorologie-02-UT320D/dp/B07D1HTCVF/ref=asc_df_B07D1HTCVF/?tag=googshopde-21&linkCode=df0&hvadid=310864011080&hvpos=&hvnetw=g&hvrand=2690433588647015358&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1004975&hvtargid=pla-681271579569&psc=1&th=1&psc=1&tag=&ref=&adgrpid=57357192610&hvpone=&hvptwo=&hvadid=310864011080&hvpos=&hvnetw=g&hvrand=2690433588647015358&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1004975&hvtargid=pla-681271579569)
+
+Je nach verwendeten Metallen ergeben sich verschiedene Messbereiche. An der Steckerfarbe erkennt man die verwendeten Metalle: [Farbcodes für Thermoelemente](https://www.omega.de/techref/colorcodes.html)
+
 * Versuch Thermospannung
 
 --- 
 
-### Beispiel elektromagnetischer Generator (magnetisch)
+### Weitere Möglichkeiten der Erzeugung freier Ladungsträger
 
+[Elektromagnetischer Generator](https://asset.conrad.com/media10/isa/160267/c1/-/de/Generator)
 * Versuch Motor als Generator
+ 
+
+[Photoelektrischer Effekt](https://www.energie-experten.org/fileadmin/System-Bilder/Inhalt_Bilder/Inhalt_Bilder_03/Solarenergie_Solarzelle_Photoeffekt_Schema_Grafik_energie-experten.org.jpg)
+
+* Versuch Solarzelle
+
 --- 
 
-### Beispiel Photoelektrischer Effekt (Licht)
+## Grundstromkreis und das Wassermodell
 
-* Versuch LED als Spannungsquelle
----
+Die Elektrischen Größen im Grundstronkreis 
+* Spannung
+* Strom
+* Widerstand
+Lassen sich sehr einfach mit der Hilfe eines Wassermodells verdeutlichen.
 
-## Praktische Spannungsquellen
-
-* Versuch Spannungen verschiedener Batterien
---- 
-
-## Grundstromkreis
-
-### Spannung
-
-### Strom
-
-### Widerstand
+[Größen im Stromkreis mit Wassermodell](https://www.lucycity.de/index.php/grundlagen-elektronik/der-stromkreis/groessen-im-stromkreis)
 
 --- 
 
 ## Messtechnik
 
-### Spannungsmessung
+[Multimeter am Beispiel UNI-T UT139C](https://www.toopex.shop/images/product_images/original_images/UT139C.jpg)
 
-### Strommessung
+Worauf sollte ich beim Kauf eines Multimeters achten?
+* Auto Power Off (spart Batterien)
+* Autorange
+* Kabelsucher
+* Thermometerfunktion
+* Messfunktion für R, U, I, C und f.
+* Stromzangenfunktion
+* CAT II oder III
+
+--- 
+### Spannungsmessung / Strommessung
+
+* Spannungen werden parallel zur Potentialdifferenz gemessen
+* Ströme werden in Reihe zum Verbraucher gemessen (__Stromkreis muss i.d.R. aufgetrennt werden__)
+
+--- 
+
+### Das Ohmsche Gesetz in der Praxis
+* Grundstromkreis
+* Grundgrößen
+* Ohmsches Gesetz
 * Versuch Widerstandsberechnung
 
-### Widerstandsmessung
 --- 
 ## Elektrische Leistung
+### Bedeutung der elektrischen Leistung
+An jedem elektrischen Verbraucher wird elektrische Energie in andere Energieformen umgewandelt
+* Wärme
+* Magnetismus
+* Licht
 
-### Bedeutung
+Die Leistung gibt an, wieviel der elektrischen Energie in andere Energieformen umgewandelt wird.
+* CPU benötigt viel Leistung -> viele elektrische Energie wird in Wärme umgewandelt -> CPU wird sehr warm.
+* Herdplatte
+* Wasserkocher
 
-### Messung
+### Messung der elektrischen Leistung
+Man ermittelt Spannung und Strom und multipliziert beides. Leistungsmessgeräte multiplizieren intern und zeigen direkt das Ergebnis an.
 
-### Beispiele
+P = U * I
+
 --- 
 ## Elektrische Arbeit
+Die elektrische Arbeit gibt an, wie lang eine elektrische Energie in eine andere Energieform umgewandelt wurde.
+
+W = U * I * t = P * t
 
 ### Bedeutung
+Gewöhnliche Haushaltsstromzähler messen genau genommen die elektrische Arbeit, also wie viel Energie pro Zeiteinheit aus dem öffentlichen Netz bezogen oder in dieses eingespeist wurde.
+
+Pro Einheit (i.d.R. eine Kilowattstunde) wird ein bestimmter Betrag berechnet.
+
+Will man viel Arbeit verrichten, benotigt man dazu i.d.R. viel Energie über einen Langen Zeitraum hinweg, und das wird dann sehr teuer...
 
 ### Messung
+Messgeräte für die elektrische Arbeit messen Zusätzlich zur Leistung noch die Zeit, in der die Leistung aufgebracht wurde.
 
-### Beispiele
+Huashaltsstromzähler haben dazu ein mechanisches oder elektronisches Zählwerk.
 
