@@ -76,6 +76,8 @@ Auf der Zinkseite entstehen mehr freie Elektronen pro Zeiteinheit als auf der Ku
 
 [Zink-Kupfer-Zelle](https://www.u-helmich.de/che/Q1/inhaltsfeld-3-ec/2-GalvanischeZellen/bilder/bild05.jpg).
 
+Etwas effektiver arbeitet die "Zitronenbatterie". Hier hilft unter Anderem die Säure der Zitrone, noch mehr freie Ladungsträger pro Zeiteinheit zu erzeugen. Die [Chemischen Vorgänge dabei](https://www.u-helmich.de/che/Q1/inhaltsfeld-3-ec/2-GalvanischeZellen/seiteEC-2-2.html) sind aber sehr komplex.
+
 * Versuch Zitronenbatterie
 
 ---
