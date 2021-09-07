@@ -139,8 +139,6 @@ Worauf sollte ich beim Kauf eines Multimeters achten?
 * Spannungen werden parallel zur Potentialdifferenz gemessen
 * Ströme werden in Reihe zum Verbraucher gemessen (__Stromkreis muss i.d.R. aufgetrennt werden__)
 
---- 
-
 ### Das Ohmsche Gesetz in der Praxis
 * Grundstromkreis
 * Grundgrößen
@@ -148,6 +146,7 @@ Worauf sollte ich beim Kauf eines Multimeters achten?
 * Versuch Widerstandsberechnung
 
 --- 
+
 ## Elektrische Leistung
 ### Bedeutung der elektrischen Leistung
 An jedem elektrischen Verbraucher wird elektrische Energie in andere Energieformen umgewandelt
